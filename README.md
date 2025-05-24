@@ -1,6 +1,6 @@
 # breweries_etl
 
-Uma solução ETL automatizada utilizando a API [Open Brewery DB API](https://www.openbrewerydb.org/)
+Uma solução ETL salada automatizada utilizando a API [Open Brewery DB API](https://www.openbrewerydb.org/)
 
 ## Preparação do ambiente
 
